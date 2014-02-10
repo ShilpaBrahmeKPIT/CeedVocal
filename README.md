@@ -1,5 +1,5 @@
 # CeedVocal
-[CeedVocal](http://www.creaceed.com/ceedvocal/about) is Creaceed's iPhone Speech Recognition SDK for iOS.
+[CeedVocal](http://www.creaceed.com/ceedvocal/about) is Creaceed's Speech Recognition SDK for iOS.
 
 ## What's CeedVocal?
 CeedVocal is a speech recognition SDK for iPhone/iPad that we have built around open source libraries [Julius](http://julius.sourceforge.jp/en_index.php) and [FLite](http://cmuflite.org), when developing our own Vocalia application. CeedVocal runs on iOS 5.0+ (even 4.3 with some restrictions, see below), and is optimized for the latest iOS7 and 64-bit architectures. It is not available for Android devices at this time.
